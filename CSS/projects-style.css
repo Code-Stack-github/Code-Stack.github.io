@@ -95,11 +95,11 @@ p {
     text-align: justify;
 }
 .code a {
-    margin: 50px 270px;
+    margin: 30px 270px;
     display: block;
     text-align: justify;
     text-decoration: none;
-    color: seashell;
+    color: black;
     font-weight: bold;
     font-size: 20px;
 }
