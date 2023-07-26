@@ -15,10 +15,10 @@
   <h2>Contents of Website</h2>
 
   <p>This website is dedicated to our team and contains the following sections:<br>
-     &nbsp;1. Introduction of the team<br>
-     &nbsp;2. Information about each of the team members<br>
-     &nbsp;3. Information about our preparations for the Hour of Code event<br>
-     &nbsp;4. Information about our Website project<br></p>
+     &nbsp;&nbsp;&nbsp;1. Introduction of the team<br>
+     &nbsp;&nbsp;&nbsp;2. Information about each of the team members<br>
+     &nbsp;&nbsp;&nbsp;3. Information about our preparations for the Hour of Code event<br>
+     &nbsp;&nbsp;&nbsp;4. Information about our Website project<br></p>
      
 </body>
 
