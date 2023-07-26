@@ -1,10 +1,27 @@
-# Code-Stack.github.io
-Code-Stack team website
+<!DOCTYPE html>
+<html>
 
-The main goal of this project was to develop our team website using HTML, CSS and JavaScript.
-We tried to build our team website by creating several linked web pages, using 3 types of files: .html, .css and .js from scratch without using any ready templates or tools except a simple text editor. 
-This website is dedicated to our team and contains the following sections:
-    1. Introduction of the team
-    2. Information about each of the team members
-    3. Information about our preparations for the Hour of Code event
-    4. Information about our Website project
+<head>
+  <title>Code-Stack Team Website</title>
+</head>
+
+<body>
+
+  <h1>Code-Stack Team Website</h1>
+  
+  <p>Welcome to the Code-Stack Team Website!<br>
+     This project was developed using HTML, CSS, and JavaScript with the main goal of showcasing our talented team and our passion for coding.<br>
+     We are proud to present our website, which has been created from scratch without relying on any ready templates or tools.<br>
+     This allowed us to put our skills to the test and demonstrate our creativity.<br></p>
+  
+  <h1>Contents of Website</h1>
+
+  <p>This website is dedicated to our team and contains the following sections:<br>
+     &nbsp;1. Introduction of the team
+     &nbsp;2. Information about each of the team members
+     &nbsp;3. Information about our preparations for the Hour of Code event
+     &nbsp;4. Information about our Website project</p>
+     
+</body>
+
+</html>
